@@ -23,7 +23,7 @@ This is an interactive **Drum Kit Web App** built using HTML, CSS, and JavaScrip
 - The button briefly animates to give a pressed effect.
 
 ## 📁 Project Structure
-
+```
 Drum-Kit/
 ├── index.html            # Main HTML file
 ├── styles.css            # Styling for layout and animation
@@ -43,7 +43,7 @@ Drum-Kit/
 │   ├── tom-4.mp3
 │   ├── crash.mp3
 │   ├── kick-bass.mp3
-
+```
 
 
 
