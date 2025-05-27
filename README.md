@@ -70,5 +70,5 @@ Drum-Kit/
 2. Make sure you have all the `.mp3` files in a `sounds` folder.
 3. Open `index.html` in your browser and enjoy the drum kit!
 
-## 🙌 Made with ❤️ by Tushar
+## 🙌 Made for Entertainment Purpose
 
