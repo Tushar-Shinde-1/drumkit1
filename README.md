@@ -25,24 +25,24 @@ This is an interactive **Drum Kit Web App** built using HTML, CSS, and JavaScrip
 ## 📁 Project Structure
 
 Drum-Kit/
-├── index.html # Main HTML file
-├── styles.css # Styling for layout and animation
-├── index.js # JavaScript for logic and interactivity
-├── images/ # Drum-related images
-│ ├── tom-1.png
-│ ├── tom-2.png
-│ ├── tom-3.png
-│ ├── tom-4.png
-│ ├── snare.png
-│ ├── kick.png
-│ ├── crash.png
-├── sounds/ # Sound files for each drum
-│ ├── tom-1.mp3
-│ ├── tom-2.mp3
-│ ├── tom-3.mp3
-│ ├── tom-4.mp3
-│ ├── crash.mp3
-│ ├── kick-bass.mp3
+├── index.html            # Main HTML file
+├── styles.css            # Styling for layout and animation
+├── index.js              # JavaScript for logic and interactivity
+├── images/               # Drum-related images
+│   ├── tom-1.png
+│   ├── tom-2.png
+│   ├── tom-3.png
+│   ├── tom-4.png
+│   ├── snare.png
+│   ├── kick.png
+│   ├── crash.png
+├── sounds/               # Sound files for each drum
+│   ├── tom-1.mp3
+│   ├── tom-2.mp3
+│   ├── tom-3.mp3
+│   ├── tom-4.mp3
+│   ├── crash.mp3
+│   ├── kick-bass.mp3
 
 
 
